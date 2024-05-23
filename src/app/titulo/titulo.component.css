@@ -1,0 +1,14 @@
+.title{
+    display:inline-block;
+    justify-content: left ;
+    align-items: center;
+}
+
+h1 {
+    font-size: 18px;
+    text-align: center;
+    position: relative;
+    color: rgb(0, 0, 148);
+    background-color:rgb(247, 201, 115);
+;
+}

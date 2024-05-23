@@ -1,0 +1,12 @@
+#navbar {
+    position: relative;
+    bottom: 120px;
+    left: 80px;
+    margin: auto;
+    height: 112px;
+    
+}
+
+.nav-link{
+    color: rgb(0, 0, 148);
+}
